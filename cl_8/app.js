@@ -23,9 +23,9 @@
     color: '#EEE',
     faces: 12,
     images: [
-      "images/gem-01.jpg",
-      "images/gem-03.jpg",
-      "images/gem-04.jpg"
+      "../images/gem-01.jpg",
+      "../images/gem-03.jpg",
+      "../images/gem-04.jpg"
     ]
   }, {
     name: 'Zircon',
@@ -36,9 +36,9 @@
     color: '#000',
     faces: 6,
     images: [
-      "images/gem-06.jpg",
-      "images/gem-07.jpg",
-      "images/gem-09.jpg"
+      "../images/gem-06.jpg",
+      "../images/gem-07.jpg",
+      "../images/gem-09.jpg"
     ]
   }];
 })();
